@@ -1,3 +1,4 @@
 *.jpg
 *.png
 *.spyproject
+*.ipynb_checkpoints
