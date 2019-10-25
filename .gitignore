@@ -2,3 +2,4 @@
 *.png
 *.spyproject
 *.ipynb_checkpoints
+*.pth
