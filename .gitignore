@@ -3,3 +3,4 @@
 *.spyproject
 *.ipynb_checkpoints
 *.pth
+*.pkl
